@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+header{
+  >h1{
+    background: url(../img/clipMovie_02_02.gif) no-repeat center center/cover;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 10rem;
+  }
+}
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+}
